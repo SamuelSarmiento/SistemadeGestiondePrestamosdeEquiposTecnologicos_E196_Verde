@@ -1,6 +1,6 @@
-# ProyectArquitectura
+
 EQUIPO VERDE
 integrantes:
 -Santiago Osorio Calderon
--Samuel Sarmiento
+-Samuel Sarmiento (líder)
 -Edwin Blanco
